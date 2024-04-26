@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakshi Sharma</h1>
 <h3 align="center">Passionate about Business Analysis and Product Management</h3>
-<img align="right" width="400" src=“https://cdn.dribbble.com/users/116207...”>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1AeKZSQahfDAk-sF_u9cHybEhrx8xFFfnrw&s" alt="Description of the image" style="float: right;">
 
 - 🌱 I’m currently learning **SQL, Python, Product Management, Business Process Analysis**
 
